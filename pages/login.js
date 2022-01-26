@@ -14,6 +14,7 @@ export default function Login() {
   }
   return(
     <div style={{ padding: "100px 0", textAlign: "center"}}>
+      <h2>로그인 해주세요</h2>
       <Form>
         <Form.Field inline>
           <input placeholder="ID" />          
